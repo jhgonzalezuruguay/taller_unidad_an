@@ -21,7 +21,7 @@ ui <- fluidPage(
     "))
   ),
   
-  titlePanel("Taller: Acceso a la Justicia en Ciencias Sociales"),
+  titlePanel("Taller: Unidad de análisis"),
   
   tabsetPanel(
     
