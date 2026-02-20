@@ -21,7 +21,7 @@ ui <- fluidPage(
     "))
   ),
   
-  titlePanel("Taller: Unidad de análisis"),
+  titlePanel("Taller: Unidad de análisis - Mag. José González"),
   
   tabsetPanel(
     
